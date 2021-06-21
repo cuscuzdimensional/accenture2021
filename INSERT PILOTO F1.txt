@@ -1,0 +1,59 @@
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(1, 1, 'Lewis Hamilton', 'Hamilton', 'BRITISH', DATE'1985-01-07', '44', 'HAM', 'http://en.wikipedia.org/wiki/Lewis_Hamilton'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(2, 2, 'Nico Rosberg', 'Rosberg', 'German', DATE'1985-06-27', '6', 'ROS', 'http://en.wikipedia.org/wiki/Nico_Rosberg'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(3, 3, 'Fernando Alonso', 'Alonso', 'Spanish', DATE'1981-07-29', '14', 'ALO', 'http://en.wikipedia.org/wiki/Fernando_Alonso'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(4, 4, 'Kimi Räikkönen', 'raikkonen', 'Finnish', DATE'1979-10-17', '7', 'RAI', 'http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(5, 5, 'Robert Kubica', 'kubica', 'Polish', DATE'1984-12-07', '88', 'KUB', 'http://en.wikipedia.org/wiki/Robert_Kubica'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(6, 6, 'Felipe Massa', 'massa', 'Brazilian', DATE'1981-04-25', '19', 'MAS', 'http://en.wikipedia.org/wiki/Felipe_Massa'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(7, 7, 'Adrian Sutil', 'sutil', 'German', DATE'1983-01-11', '99', 'SUT', 'http://en.wikipedia.org/wiki/Adrian_Sutil'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(8, 8, 'Jenson Button', 'button', 'British', DATE'1980-01-19', '22', 'BUT', 'http://en.wikipedia.org/wiki/Jenson_Button'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(9, 9, 'Sebastian Vettel', 'Vettel', 'German', DATE'1987-07-03', '5', 'VET', 'http://en.wikipedia.org/wiki/Sebastian_Vettel'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(10, 10, 'Romain Grosjean', 'grosjean', 'French', DATE'1986-04-17', '8', 'GRO', 'http://en.wikipedia.org/wiki/Romain_Grosjean'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(11, 11, 'Kamui Kobayashi ', 'kobayashi', 'Japanese', DATE'1986-09-13', '10', 'KOB', 'http://en.wikipedia.org/wiki/Kamui_Kobayashi'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(12, 12, 'Nico Hülkenberg', 'hulkenberg', 'German', DATE'1987-08-19', '27', 'HUL', 'http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(13, 13, 'Pastor Maldonado', 'maldonado', 'Venezuelan', DATE'1985-03-09', '13', 'MAL', 'http://en.wikipedia.org/wiki/Pastor_Maldonado'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(14, 14, 'Sergio Pérez', 'perez', 'Mexican', DATE'1990-01-26', '11', 'PER', 'http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez'  );
+
+insert into PILOTO (ID_PILOTO, ID_CORRIDA, NO_PILOTO, SOBRENOME, NACIONALIDADE, DT_NASCIMENTO, NU_PILOTO, RF_PILOTO, URL )
+VALUES
+(15, 15, 'Daniel Ricciardo', 'ricciardo', 'Australian', DATE'1989-07-01', '3', 'RIC', 'http://en.wikipedia.org/wiki/Daniel_Ricciardo'  );

@@ -1,0 +1,48 @@
+-----------------------------------------------------------------------------------------------
+--Insert tabela 03 | CORRIDA--
+-----------------------------------------------------------------------------------------------
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (1, 2021, 01, 1, 'Abu Dhabi Grand Prix', '2021-12-12', sysdate, 'http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (2, 2021, 02, 2, 'Saudi Arabian Grand Prix', '2021-12-05', sysdate, 'http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (3, 2021, 03, 3, 'Brazilian Grand Prix', '2021-11-07', sysdate, 'http://en.wikipedia.org/wiki/2021_Brazilian_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (4, 2021, 04, 4, 'Mexico City Grand Prix', '2021-10-31', sysdate, 'http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (5, 2021, 05, 5, 'United States Grand Prix', '2021-10-24', sysdate, 'http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (6, 2021, 06, 6, 'Japanese Grand Prix', '2021-10-10', sysdate, 'http://en.wikipedia.org/wiki/2021_Japanese_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (7, 2021, 07, 7, 'Singapore Grand Prix', '2021-10-03', sysdate, 'http://en.wikipedia.org/wiki/2021_Singapore_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (8, 2021, 08, 8, 'Russian Grand Prix', '2021-09-26', sysdate, 'http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (9, 2021, 09, 9, 'Italian Grand Prix', '2021-09-12', sysdate, 'http://en.wikipedia.org/wiki/2021_Italiian_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (10, 2021, 10, 10, 'Dutch Grand Prix', '2021-09-05', sysdate, 'http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (11, 2021, 11, 11, 'Belgian Grand Prix', '2021-08-29', sysdate, 'http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (12, 2021, 12, 12, 'Hungarian Grand Prix', '2021-08-01', sysdate, 'http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (13, 2021, 13, 13, 'British Grand Prix', '2021-07-18', sysdate, 'http://en.wikipedia.org/wiki/2021_British_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (14, 2021, 14, 14, 'Austrian Grand Prix', '2021-07-04', sysdate, 'http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix');
+
+insert into CORRIDA (ID_CORRIDA, ANO, ROUND, ID_CIRCUITO, NO_CORRIDA, DT_CORRIDA, HORA, url)
+VALUES (15, 2021, 15, 15, 'French Grand Prix', '2021-06-20', sysdate, 'http://en.wikipedia.org/wiki/2021_French_Grand_Prix');

@@ -1,0 +1,212 @@
+ID_RESUL_CONSTR,ID_CORRIDA,ID_CONSTRUTOR,pt_construtor,no_construtor
+1,18,1,14,McLaren
+2,18,2,8,"BMW Sauber"
+3,18,3,9,Williams
+4,18,4,5,Renault
+5,18,5,2,"Toro Rosso"
+6,18,6,1,Ferrari
+7,19,7,24,Toyota
+8,19,8,19,"Super Aguri"
+9,19,9,9,"Red Bull"
+10,19,10,6,"Force India"
+11,19,11,2,Honda
+12,19,12,11,Spyker
+13,19,13,5,MF1
+14,19,14,2,"Spyker MF1"
+15,19,15,0,Sauber
+16,19,16,0,BAR
+17,19,17,0,Jordan
+18,20,18,28,Minardi
+19,20,19,30,Jaguar
+20,20,20,10,Prost
+21,20,21,6,Arrows
+22,20,22,2,Benetton
+23,20,23,29,Brawn
+24,20,24,8,Stewart
+25,20,25,4,Tyrrell
+26,20,26,0,Lola
+27,20,27,0,Ligier
+28,20,28,0,Forti
+29,21,29,34,Footwork
+30,21,30,35,Pacific
+31,21,31,12,Simtek
+32,21,32,6,"Team Lotus"
+33,21,33,2,Larrousse
+34,21,34,47,Brabham
+35,21,35,9,Dallara
+36,21,36,8,Fondmetal
+37,21,37,3,March
+38,21,38,0,"Andrea Moda"
+39,21,39,0,AGS
+40,22,40,42,Lambo
+41,22,41,44,"Leyton House"
+42,22,42,13,Coloni
+44,22,44,9,"Euro Brun"
+45,22,45,2,Osella
+46,22,46,63,Onyx
+47,22,47,9,Life
+48,22,48,10,Rial
+49,22,49,3,Zakspeed
+50,22,50,0,RAM
+51,22,51,0,"Alfa Romeo"
+52,23,52,53,Spirit
+53,23,53,52,Toleman
+54,23,54,15,ATS
+55,23,55,9,Theodore
+56,23,56,6,Fittipaldi
+57,23,57,69,Ensign
+58,23,58,9,Shadow
+59,23,59,15,Wolf
+60,23,60,6,Merzario
+61,23,61,0,Kauhsen
+62,23,62,0,Rebaque
+63,24,63,53,Surtees
+64,24,64,70,Hesketh
+65,24,65,15,Martini
+66,24,66,9,BRM
+67,24,67,7,Penske
+68,24,68,73,LEC
+69,24,69,17,McGuire
+70,24,70,21,Boro
+71,24,71,8,Apollon
+72,24,72,0,Kojima
+73,24,73,0,Parnelli
+74,25,74,58,Maki
+75,25,75,74,"Embassy Hill"
+76,25,76,15,Lyncar
+77,25,77,12,Trojan
+78,25,78,7,Amon
+79,25,79,91,Token
+80,25,80,23,"Iso Marlboro"
+81,25,81,24,Tecno
+82,25,82,8,Matra
+83,25,83,0,Politoys
+84,25,84,0,Connew
+85,26,85,72,Bellasi
+86,26,86,82,"De Tomaso"
+87,26,87,16,Cooper
+88,26,88,15,Eagle
+89,26,89,7,LDS
+90,26,90,96,Protos
+91,26,91,25,Shannon
+92,26,92,24,Scirocco
+93,26,93,14,RE
+94,26,94,0,BRP
+95,26,95,0,Porsche
+96,27,96,86,Derrington
+97,27,97,89,Gilby
+98,27,98,16,Stebro
+99,27,99,23,Emeryson
+100,27,100,8,ENB
+101,27,101,105,JBW
+102,27,102,25,Ferguson
+103,27,103,24,MBM
+104,27,104,14,Behra-Porsche
+105,27,105,0,Maserati
+106,27,106,0,Scarab
+107,28,107,100,Watson
+108,28,108,90,Epperly
+109,28,109,16,Phillips
+110,28,110,31,Lesovsky
+111,28,111,8,Trevis
+112,28,112,111,Meskowski
+113,28,113,35,"Kurtis Kraft"
+114,28,114,24,Kuzma
+115,28,115,14,Christensen
+116,28,116,0,Ewing
+117,28,117,0,"Aston Martin"
+118,29,118,113,Vanwall
+119,29,119,96,Moore
+120,29,120,17,Dunn
+121,29,121,31,Elder
+122,29,122,11,Sutton
+123,29,123,121,Fry
+124,29,124,41,Tec-Mec
+125,29,125,24,Connaught
+126,29,126,14,Alta
+127,29,127,0,OSCA
+128,29,128,0,Gordini
+129,30,129,119,Stevens
+130,30,130,107,Bugatti
+131,30,131,17,Mercedes
+132,30,132,36,Lancia
+133,30,133,17,HWM
+134,30,134,131,Schroeder
+135,30,135,41,Pawl
+136,30,136,25,Pankratz
+137,30,137,14,Arzani-Volpini
+138,30,138,0,Nichels
+139,30,139,0,Bromme
+140,31,140,129,Klenk
+141,31,141,117,Simca
+142,31,142,17,Turner
+143,31,143,41,"Del Roy"
+144,31,144,27,Veritas
+145,31,145,134,BMW
+146,31,146,41,EMW
+147,31,147,26,AFM
+148,31,148,14,"Frazer Nash"
+149,31,149,0,Sherman
+150,31,150,0,Deidt
+151,32,151,135,ERA
+152,32,152,120,"Aston Butterworth"
+153,32,153,26,Cisitalia
+154,32,154,51,Talbot-Lago
+155,32,155,31,Hall
+156,32,156,134,Marchese
+157,32,157,46,Langley
+158,32,158,28,Rae
+159,32,159,14,Olson
+160,32,160,0,Wetteroth
+161,32,161,0,Adams
+162,33,162,135,Snowberger
+163,33,163,128,Milano
+164,33,164,26,HRT
+167,33,167,66,Cooper-Maserati
+166,33,166,34,Virgin
+168,33,168,142,Cooper-OSCA
+169,33,169,50,Cooper-Borgward
+170,33,170,29,Cooper-Climax
+171,33,171,14,Cooper-Castellotti
+172,33,172,0,Lotus-Climax
+173,33,173,0,Lotus-Maserati
+174,34,174,0,"De Tomaso-Osca"
+175,34,175,0,"De Tomaso-Alfa Romeo"
+176,34,176,14,Lotus-BRM
+177,34,177,29,Lotus-Borgward
+178,34,178,52,"Cooper-Alfa Romeo"
+179,34,179,156,"De Tomaso-Ferrari"
+180,34,180,34,Lotus-Ford
+181,34,181,72,Brabham-BRM
+182,34,182,26,Brabham-Ford
+183,34,183,135,Brabham-Climax
+184,34,184,145,LDS-Climax
+185,35,185,151,"LDS-Alfa Romeo"
+186,35,186,135,Cooper-Ford
+187,35,187,26,McLaren-Ford
+188,35,188,80,McLaren-Serenissima
+189,35,189,39,Eagle-Climax
+190,35,190,172,Eagle-Weslake
+191,35,191,56,Brabham-Repco
+192,35,192,29,Cooper-Ferrari
+193,35,193,14,Cooper-ATS
+194,35,194,0,McLaren-BRM
+195,35,195,0,Cooper-BRM
+196,36,196,0,Matra-Ford
+197,36,197,0,BRM-Ford
+198,36,198,0,"McLaren-Alfa Romeo"
+199,36,199,0,"March-Alfa Romeo"
+200,36,200,1,March-Ford
+201,36,201,2,"Lotus-Pratt &amp"
+202,36,202,4,Shadow-Ford
+203,36,203,5,Shadow-Matra
+204,37,204,0,"Brabham-Alfa Romeo"
+205,37,205,0,Lotus
+206,37,206,0,Marussia
+207,37,207,0,Caterham
+208,37,208,3,"Lotus F1"
+209,37,209,2,"Manor Marussia"
+210,37,210,8,"Haas F1 Team"
+211,37,211,10,"Racing Point"
+213,38,213,0,AlphaTauri
+214,38,214,0,"Alpine F1 Team"

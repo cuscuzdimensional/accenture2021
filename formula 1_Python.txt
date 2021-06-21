@@ -1,0 +1,58 @@
+from google.colab import files
+uploaded = files.upload()
+
+ImportePandas
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly as py
+import sklearn
+
+D_CORRIDA = pd.read_csv('D_CORRIDA.csv')
+D_CONSTRUTOR = pd.read_csv('D_CONSTRUTOR.csv')
+D_PILOTO = pd.read_csv('D_PILOTO.csv')
+D_FABRICANTE = pd.read_csv('D_FABRICANTE.csv')
+F_RESULTADO= pd.read_csv('F_RESULTADO.csv')
+D_CIRCUITO = pd.read_csv('D_CIRCUITO.csv')
+D_DATA = pd.read_csv('D_Data.csv')
+
+D_CIRCUITO
+
+D_CORRIDA.head()
+
+D_DATA
+
+F_RESULTADO.columns
+
+D_PILOTO.columns
+
+D_PILOTO['NU_PILOTO'].unique()
+
+D_PILOTO.duplicated()
+
+F_RESULTADO
+
+
+resultado global
+
+RESULTADO=F_RESULTADO.merge(D_PILOTO,on='ID_PILOTO')
+RESULTADO=RESULTADO[RESULTADO.POSICAO_FINAL=='1']
+RESULTADO=RESULTADO.groupby('NO_PILOTO').agg({'POSICAO_FINAL':'count'}).nlargest(10,'POSICAO_FINAL')
+RESULTADO.plot(kind='barh')
+
+ Resultado do Grande prêmio ao longo de todos os anos
+
+RESULTADO=F_RESULTADO.merge(D_PILOTO,on='ID_PILOTO')
+RESULTADO=RESULTADO[RESULTADO.ID_CIRCUITO==4]
+RESULTADO=RESULTADO.groupby('NO_PILOTO').agg({'PT_PILOTO': np.sum})
+RESULTADO.plot(kind='barh')
+
+
+Resultado do campeonato de pilotos
+
+RESULTADO=F_RESULTADO.merge(D_PILOTO,on='ID_PILOTO')
+RESULTADO=RESULTADO[RESULTADO.POSICAO_FINAL=='1']
+RESULTADO=RESULTADO.groupby('NO_PILOTO').agg({'CodData':'sum'}).nlargest(10,'CodData')
+RESULTADO.plot(kind='barh')

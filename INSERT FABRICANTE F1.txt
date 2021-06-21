@@ -1,0 +1,11 @@
+insert into FABRICANTE (ID_FABRICANTE, NO_FABRICANTE, MODELO, POTENCIA)
+values (1, 'Ferrari', 'Turbocomprimidos', 'V6 de 1600 cilindradas');
+
+insert into FABRICANTE (ID_FABRICANTE, NO_FABRICANTE, MODELO, POTENCIA)
+values (2, 'Honda', 'Turbocomprimidos', 'V6 de 1600 cilindradas');
+
+insert into FABRICANTE (ID_FABRICANTE, NO_FABRICANTE, MODELO, POTENCIA)
+values (3, 'Mercedes', 'Turbocomprimidos', 'V6 de 1600 cilindradas');
+
+insert into FABRICANTE (ID_FABRICANTE, NO_FABRICANTE, MODELO, POTENCIA)
+values (4, 'Renault', 'Turbocomprimidos', 'V6 de 1600 cilindradas');
